@@ -2,9 +2,7 @@
 This project aims to predict the delays that can occur between a flight taking off from an airport and landing at a particular airport. Various delays such as departure delay, arrival delay, taxi delay and more have been accounted for and the overall model predicts the combined delay that can occur.
 
 # Prerequisites
-The dataset that I have used was obtained from Kaggle and this is the link:
-https://www.kaggle.com/usdot/flight-delays/data
-
+The dataset that I have used was obtained from Kaggle and this is the link: https://www.kaggle.com/usdot/flight-delays/data
 Homebrew Python 2.7
 Scipy library: https://www.scipy.org/
 Numpy library: http://www.numpy.org/
