@@ -17,7 +17,7 @@ Pandas library: https://pandas.pydata.org/
 Jupyter notebook: http://jupyter.org/
 
 # Installation
-# Mac:
+**Mac:**
 
 Homebrew Python 2.7: http://docs.python-guide.org/en/latest/starting/install/osx/
 
@@ -29,7 +29,7 @@ Scikit-learn library: http://scikit-learn.org/stable/install.html
 
 Jupyter notebook: http://jupyter.readthedocs.io/en/latest/install.html
 
-# Windows
+**Windows:**
 
 Python 2.7: https://stackoverflow.com/questions/21372637/installing-python-2-7-on-windows-8
 
